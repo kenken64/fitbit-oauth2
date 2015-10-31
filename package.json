@@ -1,6 +1,6 @@
 {
   "name": "fitbit-oauth2-fitbox",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "fitbit api based on OAuth2 for FitBox",
   "main": "index.js",
   "scripts": {

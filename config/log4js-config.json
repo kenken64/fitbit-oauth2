@@ -1,0 +1,12 @@
+{
+  "appenders": [
+    {
+      "type": "file",
+      "absolute": true,
+      "filename": "/Users/phangty/fitbit-oauth2-api.log",
+      "maxLogSize": 20480,
+      "backups": 10,
+      "category": "fitbitapi"
+    }
+  ]
+}
